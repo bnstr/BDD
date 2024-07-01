@@ -11,7 +11,7 @@ BDD Workflow:
 1. Discovery
 > Collaboratively discover and define user stories and scenarios with all stakeholders.
 2. Formulation
-Translate user stories into concrete, executable scenarios using the Given-When-Then format.
+>Translate user stories into concrete, executable scenarios using the Given-When-Then format.
 3. Automation
 > Implement automated tests for the scenarios using a BDD framework (e.g., Behave for Python).
 4. Execution
